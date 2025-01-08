@@ -75,7 +75,7 @@ restaurant-analysis/
     ├── generate_pos_data.py
     ├── ave_ticket_by_day_2.py
     ├── heatmap_2.py
-    └── each_day_hourly.py
+    └── each_day_hourly.py 
 
 
 ## Contact
