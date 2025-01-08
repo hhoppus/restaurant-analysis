@@ -57,6 +57,7 @@ For detailed analysis methodology and findings, see `ANALYSIS.md`.
 
 
 ## Project Structure
+```tree
 restaurant-analysis/
 ├── .gitignore
 ├── .env
@@ -75,7 +76,8 @@ restaurant-analysis/
     ├── generate_pos_data.py
     ├── ave_ticket_by_day_2.py
     ├── heatmap_2.py
-    └── each_day_hourly.py 
+    └── each_day_hourly.py
+```
 
 
 ## Contact
