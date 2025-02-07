@@ -172,6 +172,6 @@ With authentic data, several additional analyses would be possible:
 This project successfully demonstrated both data cleaning techniques with AI augmentation and the relative benefits and limitations of synthetic data generation.
 
 ## Contact
-For collaboration opportunities, please reach out via symmetry1@live.com
+For collaboration opportunities, reach out via symmetry1@live.com
 
 © 2025 Heath Hoppus
